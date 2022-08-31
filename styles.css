@@ -1,1 +1,8 @@
-/* Copy and paste your CSS from CodePen into here */
+<style>
+  .image-spec {
+    position: center;
+    display: block;
+    height: auto;
+    width: 100%;
+  }
+</style>
