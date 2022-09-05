@@ -1,8 +1,17 @@
-<style>
-  .image-spec {
-    position: center;
-    display: block;
-    height: auto;
-    width: 100%;
-  }
-</style>
+img {
+  position: center;
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+.img-caption {
+color: grey;
+font-family: verdana;
+font-size: 120%
+}
+h1 {
+color: grey;
+}
+.page-background {
+background-color: #fffdd0;
+}
